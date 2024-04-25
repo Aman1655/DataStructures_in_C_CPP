@@ -7,8 +7,7 @@ _so lets start_
 
 ## ⭐️ Course Contents ⭐️
 
-- Introduction to data structures
-
+- [Introduction to data structures](#introduction-to-data-structures)
 - Data Structures: List as abstract data type
 - Introduction to linked list
 - Arrays vs Linked Lists
@@ -51,3 +50,4 @@ _so lets start_
 -  Graph Representation part 02 - Adjacency Matrix
 - Graph Representation part 03 - Adjacency List
 
+## Introduction to data Structures
